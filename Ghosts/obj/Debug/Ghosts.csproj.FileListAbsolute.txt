@@ -1,0 +1,6 @@
+C:\Users\cools\RiderProjects\Ghosts\Ghosts\bin\Debug\Ghosts.exe
+C:\Users\cools\RiderProjects\Ghosts\Ghosts\bin\Debug\Ghosts.pdb
+C:\Users\cools\RiderProjects\Ghosts\Ghosts\obj\Debug\Ghosts.csprojAssemblyReference.cache
+C:\Users\cools\RiderProjects\Ghosts\Ghosts\obj\Debug\Ghosts.csproj.CoreCompileInputs.cache
+C:\Users\cools\RiderProjects\Ghosts\Ghosts\obj\Debug\Ghosts.exe
+C:\Users\cools\RiderProjects\Ghosts\Ghosts\obj\Debug\Ghosts.pdb
